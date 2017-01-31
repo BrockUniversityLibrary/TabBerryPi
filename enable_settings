@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Overighting Settings"
+rm settings.py
+cp settings.orig settings.py
+chmod u+w settings.py

@@ -1,0 +1,26 @@
+# Button Action Configs
+# eg. url: http://url.to.form.example
+
+#Button 1
+[b1]
+
+label:
+url: 
+
+#Button 2
+[b2]
+
+label:
+url:
+
+#Button 3#
+[b3]
+
+label:
+url:
+
+#Button 4
+[b4]
+
+label:
+url:
